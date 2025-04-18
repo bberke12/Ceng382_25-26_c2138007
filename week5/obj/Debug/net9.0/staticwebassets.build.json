@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4qTiSJdiKsX37FXK95y4G7Agd6I7VEEWNpWp4GQ2I5c=",
+  "Hash": "5msQz3mLg/hXcajGftrh8JUX1YMND/EEunFp+0MY0dE=",
   "Source": "week5",
   "BasePath": "_content/week5",
   "Mode": "Default",
@@ -1235,6 +1235,27 @@
       "OriginalItemSpec": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+      "Identity": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\vkqol4nw58-ecme0me077.gz",
+      "SourceId": "week5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/week5",
+      "RelativePath": "data/users#[.{fingerprint=ecme0me077}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\data\\users.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "d06opk53bx",
+      "Integrity": "kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\data\\users.json"
+    },
+    {
       "Identity": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\w3rolb21ig-46ein0sx1k.gz",
       "SourceId": "week5",
       "SourceType": "Discovered",
@@ -1422,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\data\\users.json",
+      "SourceId": "week5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\",
+      "BasePath": "_content/week5",
+      "RelativePath": "data/users#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ecme0me077",
+      "Integrity": "nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\users.json"
     },
     {
       "Identity": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\favicon.ico",
@@ -3022,6 +3064,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.ecme0me077.json",
+      "AssetFile": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\vkqol4nw58-ecme0me077.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007936507937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecme0me077"
+        },
+        {
+          "Name": "label",
+          "Value": "data/users.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.ecme0me077.json",
+      "AssetFile": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\data\\users.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecme0me077"
+        },
+        {
+          "Name": "label",
+          "Value": "data/users.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.ecme0me077.json.gz",
+      "AssetFile": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\vkqol4nw58-ecme0me077.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecme0me077"
+        },
+        {
+          "Name": "label",
+          "Value": "data/users.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.json",
+      "AssetFile": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\vkqol4nw58-ecme0me077.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007936507937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.json",
+      "AssetFile": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\wwwroot\\data\\users.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmCan8fjmqJ/+5E5Fg+tGzElyh92lJr83ZBwEZ3vPsI="
+        }
+      ]
+    },
+    {
+      "Route": "data/users.json.gz",
+      "AssetFile": "C:\\Users\\berda\\Desktop\\Ceng382_25-26_c2138007\\week5\\obj\\Debug\\net9.0\\compressed\\vkqol4nw58-ecme0me077.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:51:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kzI0rbssUOCNObPWiN00AF87hxMnd5vlIVEBs+8OWjA="
         }
       ]
     },

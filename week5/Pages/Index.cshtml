@@ -1,8 +1,22 @@
 ﻿@page
 @model week5.Pages.IndexModel
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
 @{
     ViewData["Title"] = "Class Information";
 }
+
+<div class="container mt-2">
+    <div class="d-flex justify-content-end">
+        <span class="badge bg-secondary">
+            <i class="bi bi-person-circle me-1"></i>
+            @HttpContextAccessor.HttpContext.Session.GetString("username")
+        </span>
+        <form method="post" asp-page-handler="Logout" class="ms-2">
+            <button type="submit" class="btn btn-danger btn-sm">Logout</button>
+        </form>
+    </div>
+</div>
 
 <div class="container mt-4">
     <div class="row">

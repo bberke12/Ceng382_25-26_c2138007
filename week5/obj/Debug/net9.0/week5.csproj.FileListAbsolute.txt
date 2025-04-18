@@ -96,3 +96,4 @@ C:\Users\berda\Desktop\Ceng382_25-26_c2138007\week5\obj\Debug\net9.0\refint\week
 C:\Users\berda\Desktop\Ceng382_25-26_c2138007\week5\obj\Debug\net9.0\week5.pdb
 C:\Users\berda\Desktop\Ceng382_25-26_c2138007\week5\obj\Debug\net9.0\week5.genruntimeconfig.cache
 C:\Users\berda\Desktop\Ceng382_25-26_c2138007\week5\obj\Debug\net9.0\ref\week5.dll
+C:\Users\berda\Desktop\Ceng382_25-26_c2138007\week5\obj\Debug\net9.0\compressed\vkqol4nw58-ecme0me077.gz
